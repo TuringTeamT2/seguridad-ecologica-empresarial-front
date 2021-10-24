@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-saludecologicaempres-dev-192508-authRole",
+      "UnauthRoleArn": "arn:aws:iam::065416094961:role/amplify-saludecologicaempres-dev-192508-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::065416094961:role/amplify-saludecologicaempres-dev-192508-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-saludecologicaempres-dev-192508-deployment",
+      "UnauthRoleName": "amplify-saludecologicaempres-dev-192508-unauthRole",
+      "StackName": "amplify-saludecologicaempres-dev-192508",
+      "StackId": "arn:aws:cloudformation:us-east-2:065416094961:stack/amplify-saludecologicaempres-dev-192508/da40d730-3460-11ec-9a84-0a900974afd4",
+      "AmplifyAppId": "d3gg14yl6l67ff"
+    },
+    "categories": {
+      "auth": {
+        "saludecologicaempres0048b170": {}
+      },
+      "function": {
+        "getQuickSightDashboardEmbedURL": {
+          "deploymentBucketName": "amplify-saludecologicaempres-dev-192508-deployment",
+          "s3Key": "amplify-builds/getQuickSightDashboardEmbedURL-504772632b79534a4847-build.zip"
+        }
+      }
+    }
+  }
+}
